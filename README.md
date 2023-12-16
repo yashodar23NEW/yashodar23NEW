@@ -9,7 +9,8 @@
     <img align="right" alt="Coding" width="400" src="https://lachieslifestyle.com/wp-content/uploads/2023/04/midJourney-1400x700.jpg">
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashodar23NEW&label=Profile%20views&color=0e75b6&style=flat" alt="yashodara23mew" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashodar23NEW&label=Profile%20views&color=0e75b6&style=flat" alt="yashodara23mew" />
+<br></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashodar23NEW" alt="yashodara23NEW" /></a> </p>
 
