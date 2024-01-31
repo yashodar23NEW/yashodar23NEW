@@ -18,9 +18,9 @@
 
 - 🌱 I’m currently learning **PYTHON**
 
-- 💬 Ask me about **HTML,Java Script,CSS,PHP,Java,C**
+- 💬 Ask me about **HTML,Java Script,CSS,PHP,Java,C,Python**
 
-- 📫 How to reach me **yashodararuwanthi@gmail.com**
+- 📫 How to reach me **BRYashodara2454@outlook.com**
 
 - ⚡ Fun fact **"Embracing Curiosity: Where Inquisitiveness Meets Style"**
 
