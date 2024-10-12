@@ -27,6 +27,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ruwanthi-yashodara-07b561255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ruwanthi-yashodara-07b561255" height="30" width="40" /></a>
+
+<a href="mailto:BRYashodara2454@outlook.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/microsoft-outlook.png" alt="Outlook" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
