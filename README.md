@@ -4,7 +4,7 @@
     
 </a>
 <h1 align="center">Hi 👋, I'm Ruwanthi Yashodara</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A full-stack developer</h3>
 <a href="https://lachieslifestyle.com/wp-content/uploads/2023/04/midJourney-1400x700.jpg">
     <img align="right" alt="Coding" width="400" src="https://lachieslifestyle.com/wp-content/uploads/2023/04/midJourney-1400x700.jpg">
 </a>
@@ -16,7 +16,7 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashodar23NEW" alt="yashodara23NEW" /></a> </p> -->
 
-- 🌱 I’m currently learning **PYTHON**
+- 🌱 I’m currently learning **C SHARP**
 
 - 💬 Ask me about **HTML,Java Script,CSS,PHP,Java,C,Python**
 
