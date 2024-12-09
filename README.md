@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **HTML,Java Script,CSS,PHP,Java,C,Python**
+- 💬 Ask me about **Ask me about new technologies and staying future-ready—check out my GitHub!**
 
 - 📫 How to reach me **BRYashodara2454@outlook.com**
 
