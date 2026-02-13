@@ -78,6 +78,13 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+🏆 Achievements & Highlights
+<div align="center">
+🎯 Focus Area📈 Progress✨ StatusFull-Stack Development████████░░ 80%🔥 ActiveNode.js Mastery██████░░░░ 60%📚 LearningReact Expertise████████░░ 75%💪 StrongDatabase Management███████░░░ 70%🚀 GrowingCloud & DevOps█████░░░░░ 50%🌱 Exploring
+</div>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!--
 <a href="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
     <img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt="Master GIF">
