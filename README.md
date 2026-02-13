@@ -1,4 +1,10 @@
+<div align="center">
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ruwanthi%20Yashodara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" /></a>
 
+<!--
 <a href="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
     <img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt="Master GIF">
     
@@ -61,3 +67,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashodar23new&" alt="yashodar23new" /></p>
+
