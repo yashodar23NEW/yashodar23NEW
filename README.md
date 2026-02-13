@@ -16,7 +16,7 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashodar23NEW" alt="yashodara23NEW" /></a> </p> -->
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **NodeJs**
 
 - 💬 Ask me about **Ask me about new technologies and staying future-ready—check out my GitHub!**
 
