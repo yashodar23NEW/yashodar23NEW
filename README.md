@@ -63,6 +63,21 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashodar23new&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashodar23new&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+</div>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashodar23new&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashodar23new&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
+</div>
+<!-- Trophy Stats -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashodar23new&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!--
 <a href="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
     <img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt="Master GIF">
