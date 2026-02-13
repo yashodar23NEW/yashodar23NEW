@@ -4,6 +4,15 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" /></a>
 
+<!-- Profile Views Counter with Style -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashodar23new&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/yashodar23new?label=Followers&style=for-the-badge&color=58A6FF" alt="followers" />
+</p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 <!--
 <a href="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
     <img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt="Master GIF">
